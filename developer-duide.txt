@@ -43,9 +43,19 @@ const fetchPosts = () => {
 ====================================================
 
 GitHub:
+   --> cd learning (Mac)
    --> git init
    --> Create a .gitignore File (Optional but recommended):
    --> git add .
+       --> git status
+   --> git commit -m "Initial commit"
+       --> git status
+
+  ==> Login to GitHub
+   --> create new repository (+)
+   --> git remote add origin https://github.com/nvnivin/KidsLeaning.git
+   --> git branch -M main
+   
 
 
 
